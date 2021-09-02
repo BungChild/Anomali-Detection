@@ -1,0 +1,7 @@
+pandas==1.2.4
+numpy==1.19.5
+streamlit==0.84.1
+tensorflow==2.5.0
+pickleshare==0.7.5
+scikit-learn==0.24.1
+plotly==5.1.0
