@@ -29,7 +29,7 @@ scaler = pickle.load(open('scaler.pkl', 'rb'))
 threshold = 527.8798828125
 
 st.write("""
-# LSTM Anomaly Detection App for Web Traffic Data
+# LSTM Anomaly Detection by MARLA (Monitoring Analysis Remaining Life Assesment Level 1)
 """)
 
 st.write("""
