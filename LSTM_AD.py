@@ -33,8 +33,8 @@ st.write("""
 """)
 
 st.write("""
-### Data format and must be greater than 30 timestamps
-| timestamp  | value   |
+### Data Yang dibutuhkan Test Data
+| datetime   | value   |
 | -----------|:-------:|
 | 1          | 10      |
 | 2          | 7       |
